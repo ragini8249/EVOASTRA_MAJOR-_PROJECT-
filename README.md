@@ -1,4 +1,4 @@
-# EVOASTRA_MAJOR-_PROJECT-
+# EVOASTRA_MAJOR_PROJECT
 Credit Risk Analytics (Bondora Bank) 🎯
 Project Overview
 This project aims to perform Exploratory Data Analysis (EDA) to identify patterns that can help predict credit risk in loan applications. By understanding the driving factors behind loan defaults, we can support the decision-making process, ensuring that loans are approved for customers who are more likely to repay.
